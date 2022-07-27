@@ -1,2 +1,19 @@
-# joyloabo
-Do you remember J.A.R.V.I.S., Tony Stark's virtual personal assistant? If you've seen any of the Ironman or Avengers movies, I'm sure you do.  Have you ever wondered whether you could create your own personal assistant? Yes? Tony Stark can help us with that!
+Read the tutorial series - https://ireadblog.com/series/18/virtual-personal-assistant-using-python
+
+freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+
+Demo Video: https://vimeo.com/650156113
+
+Contents of .env file:
+
+```
+USER=None
+BOTNAME=JARVIS
+EMAIL=None
+PASSWORD=None
+NEWS_API_KEY=None
+OPENWEATHER_APP_ID=None
+TMDB_API_KEY=None
+```
+
+Replace `None` with your values
